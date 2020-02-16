@@ -1,3 +1,8 @@
 first addition
 
+some tex:
+first addition
+
 some text
+
+paste img
