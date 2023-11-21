@@ -6,5 +6,3 @@ lolo
 
 
 memememememememememe
-
-some
